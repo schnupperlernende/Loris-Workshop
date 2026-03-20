@@ -13,3 +13,5 @@ Installed Nginx with command `sudo apt install nginx -y`
 
 Skipped Step 2 (Adjusting the Firewall)
 
+Checked if Web Server is running and changed some text
+
