@@ -1,2 +1,3 @@
 # Loris-Workshop
 schnuppern
+Schnuppertag
