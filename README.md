@@ -9,6 +9,7 @@ Updated and upgradet System Packages with
 - `sudo apt update`
 - `sudo apt upgrade -y`
 
-
-
 Installed Nginx with command `sudo apt install nginx -y`
+
+Skipped Step 2 (Adjusting the Firewall)
+
