@@ -23,3 +23,5 @@ Installed docker with the commands
 - `sudo apt-get install docker.io`
 
 Started docker with the command `sudo systemctl start docker`
+
+Tried docker with the command `sudo docker run hello-world`
