@@ -19,6 +19,6 @@ Didn`t do the other Steps and finished with the how to Install Nginx on Ubuntu t
 
 Installed Docker with the commands 
 
-`sudo apt-get update`
-`sudo apt-get install docker.io`
+- `sudo apt-get update`
+- `sudo apt-get install docker.io`
 
