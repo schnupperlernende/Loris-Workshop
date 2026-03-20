@@ -17,8 +17,9 @@ Checked if Web Server is running with the command `systemctl status nginx` and c
 
 Didn`t do the other Steps and finished with the how to Install Nginx on Ubuntu task
 
-Installed Docker with the commands 
+Installed docker with the commands 
 
 - `sudo apt-get update`
 - `sudo apt-get install docker.io`
 
+Started docker with the command `sudo systemctl start docker`
