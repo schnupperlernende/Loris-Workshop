@@ -26,5 +26,5 @@ Started docker with the command `sudo systemctl start docker`
 
 Tried docker with the command `sudo docker run hello-world`
 
-Started the nextxloud apache image with the command `sudo docker run -d -p 8080:80 nextcloud`
+
 
