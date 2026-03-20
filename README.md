@@ -15,3 +15,5 @@ Skipped Step 2 (Adjusting the Firewall)
 
 Checked if Web Server is running and changed some text
 
+Didn`t do the other Steps and finished with the how to Install Nginx on Ubuntu task
+
